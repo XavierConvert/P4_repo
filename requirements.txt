@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scipy
+pingouin
+seaborn
+missingno
+folium
+branca
+scikit-learn
+shap
