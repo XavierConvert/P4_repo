@@ -1,11 +1,21 @@
+# Data
 pandas
 numpy
-matplotlib
+
+# Stats
+# pingouin
 scipy
-pingouin
+
+# viz
+matplotlib
 seaborn
-missingno
-folium
-branca
+# missingno
+# folium
+# branca
+
+# ML
 scikit-learn
-shap
+# shap
+
+# Distributed computing
+# pyspark
