@@ -17,5 +17,16 @@ seaborn
 scikit-learn
 # shap
 
+
+# Tools
+jupyter
+notebook
+jupyterlab
+
+
 # Distributed computing
 # pyspark
+
+# QA
+black 
+pytest
